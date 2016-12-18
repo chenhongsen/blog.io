@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "About"
-description: "学苟知本，六经皆我注脚 "
+title: "GreenSam"
+description: "宜家可能无，以后一定有"
 header-img: "img/green.jpg"
 ---
 
