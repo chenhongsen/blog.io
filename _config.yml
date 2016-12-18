@@ -1,14 +1,14 @@
-# Site settings
-title: 浪骚Sam
+﻿# Site settings
+title: CaptainSam
 header-img: "img/green.jpg"
 tagline: "cn"  
 description: "陈鸿森|为浪骚而生"  
 baseurl: ""
-url: "http://cnfeat"  
+url: "www.loveyousam3.com"  
 
 # About/contact
 owner: 
-  name: " CnFeat"
+  name: " CaptainSam"
   email: CnFeat@gmail.com
   bio: "宜家无，以后一定有"
 
