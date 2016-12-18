@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About"
-description: "学苟知本 "
+description: "一追再追 "
 header-img: "img/green.jpg"
 ---
 
