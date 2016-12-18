@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "GreenSam"
-description: "宜家可能无，以后一定有"
+title: "About"
+description: "学苟知本 "
 header-img: "img/green.jpg"
 ---
 
@@ -10,7 +10,7 @@ header-img: "img/green.jpg"
     <p><img src="http://7xlfkx.com1.z0.glb.clouddn.com/white2.jpg" align="center"></p>
 </center>
 
-我是陈素封，每天千字践行者，践行时间：2014年02月10日至2015年02月23日，感谢这段经历，让我成为了现在的我。
+大家好，我是你们的好朋友陈鸿森。
 
 现在研习 **认知写作学** 。
 
