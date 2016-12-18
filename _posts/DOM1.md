@@ -1,3 +1,11 @@
+﻿---
+layout: post
+title: DOM
+date: 2016-12-18
+categories: blog
+tags: [总结,知识管理]
+description: 通告一下
+---
 #DOM节点
 ###节点有12种，分别用1-12代表
 菜鸟先知道三种：<br>元素节点1（就是各种标签）<br>
