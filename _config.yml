@@ -3,13 +3,13 @@ title: CaptainSam
 header-img: "img/green.jpg"
 tagline: "cn"  
 description: "陈鸿森|为浪骚而生"  
-baseurl: ""
+baseurl: "www.baidu.com"
 url: "www.loveyousam3.com"  
 
 # About/contact
 owner: 
   name: " CaptainSam"
-  email: CnFeat@gmail.com
+  email: 18846434480@163.com
   bio: "宜家无，以后一定有"
 
 # Data
@@ -44,7 +44,7 @@ defaults:
     values:
       layout: "post"
       author: "CnFeat"
-      header-img: "img/green.jpg" # We don't want posts without a header image, that whould mean white on white
+      header-img: "img/red.jpg" # We don't want posts without a header image, that whould mean white on white
 
 # Comments 
 comments :
