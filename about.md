@@ -1,8 +1,8 @@
----
+﻿---
 layout: page
 title: "About"
 description: "一追再追 "
-header-img: "img/green.jpg"
+header-img: "img/red.jpg"
 ---
 
 
