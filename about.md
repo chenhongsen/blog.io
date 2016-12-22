@@ -1,8 +1,8 @@
-﻿---
+---
 layout: page
 title: "About"
 description: "一追再追 "
-header-img: "img/red.jpg"
+header-img: "img/green.jpg"
 ---
 
 
@@ -11,7 +11,9 @@ header-img: "img/red.jpg"
 </center>
 
 ##大家好，我是你们的好朋友陈鸿森。<br>
-##我现在什么都不会，什么都没写，所以谢谢大家
+###我是一个前端技术的初学者，虽然这是一个烂大街的博客模板，但毕竟也是我第一个博客，今天是2016年12月20日。我现在可能是一无所有，但是以后一定会不一样，等我老了再看我现在的文字，会黯然一笑。
+###Hello everyone! I am your best friend , chenhongsen.
+###Now I still a beginner of technology in Web.This is my first Web blog of my life ,though it's a ordinary blog model.Today is 20th in Dec,2016.I might have nothing now, but it's not in my future.I will smile at these words when I am old.^_^ 
 
 <center>
     <p><img src="http://i173.photobucket.com/albums/w63/cnfeat/2015-08-29-2_zpsqj7po8eo.png" align="center"></p>
