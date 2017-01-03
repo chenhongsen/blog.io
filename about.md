@@ -7,7 +7,8 @@ header-img: "img/twitter.jpg"
 
 
 <center>
-    <p><img src="http://img5.imgtn.bdimg.com/it/u=2317838788,2272156727&fm=23&gp=0.jpg" align="center"></p>
+    <p><img src="http://siwangxinyuan.qiniudn.com/jianshu-42-1280x800-%5BDesktopNexus.com%5D.jpg?imageView/2/w/619/q/90
+"></p>
 </center>
 
 <p style="font-size:30px;font-weight:bold">大家好，我是你们的好朋友陈鸿森。Hello everyone! I am your best friend , chenhongsen.</p><br>
@@ -16,7 +17,7 @@ header-img: "img/twitter.jpg"
 <p style="font-size:20px;font-weight:bold">Now I still a beginner of technology in Web.This is my first Web blog of my life ,though it's a ordinary blog model.Today is 20th in Dec,2016.I might have nothing now, but it's not in my future.I will smile at these words when I am old.^_^ </p>
 
 <center>
-    <p><img src="http://i173.photobucket.com/albums/w63/cnfeat/2015-08-29-2_zpsqj7po8eo.png" align="center"></p>
+    <p><img src="https://www.google.com/doodles/kamma-rahbeks-241st-birthday"/></p>
 </center>
 
 
